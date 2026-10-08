@@ -1,0 +1,20 @@
+/* #head1{
+    display: inline-block;
+    border: 100px solid red;
+    margin-left: 100px;
+    padding: 10px;
+    
+    
+} */
+#head1 {
+  display: inline-block;
+  border: 100px solid red;
+  margin-left: 100px;
+  padding: 10px;
+}
+
+/* #head1 {
+  position: relative;
+  left: 10px;
+  top: 10px;
+} */
